@@ -1,0 +1,227 @@
+body{
+    background-color: black;
+}
+.t1{
+    font-style: oblique;
+}
+/*LOGO*/
+#logo{
+ 
+
+    height: 130px;
+    width:auto;	
+    }
+
+/*NAVIGATION*/    
+.nav{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin-right: 10px;
+    font-size: 45px;
+    float: right;
+    
+}
+.nav a{
+    text-decoration: none;
+    color: white;
+    padding: 15px; 
+    padding-bottom: 30px;  
+
+}
+.nav :hover{
+    color: red;
+}
+.chart a{
+    text-decoration: none;
+}
+.chart :hover{
+    color:thistle
+}
+/*INDEX*/
+#kdrama{
+    margin-top: 61px;
+    margin-left: 100px;
+    padding-bottom: 30px;
+    width: 800px;
+    height: 500px;
+}
+
+.class1{
+    margin-top: 100px;
+}
+
+.pr1{
+    padding-top: 20px;
+    padding-right: 250px;
+    margin-right: 130px;
+    margin-bottom: 50px;
+    float: right;
+    color: white;
+}
+#id1{
+    font-size: 50px;
+}
+#id2{
+    font-size: 30px;
+    line-height: 50px;
+}
+.chart{
+    font-size: 30px;
+    line-height: 50px;
+
+}
+.chart a{
+    color: white;
+}
+
+/* squid game */
+.class2{
+    margin-top: 100px;
+    
+}
+#squid{
+    margin-top: 61px;
+    margin-left: 100px;
+    padding-bottom: 30px;
+    width: 800px;
+    height: 500px;
+}
+.pr2{
+    padding-top: 20px;
+    padding-right: 70px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    float: right;
+    color: white;
+    line-height: 40px;
+}
+#id3{
+    font-size: 50px;
+}
+#id4{
+    font-size: 30px;
+}
+#id5{
+    font-size: 30px;
+}
+/* DP */
+.class3{
+    margin-top: 100px;
+    
+}
+#dp{
+    margin-top: 61px;
+    margin-left: 100px;
+    padding-bottom: 30px;
+    width: 800px;
+    height: 500px;
+}
+.pr3{
+    padding-top: 20px;
+    padding-right: 60px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    float: right;
+    color: white;
+    line-height: 40px;
+}
+#id6{
+    font-size: 50px;
+}
+#id7{
+    font-size: 30px;
+}
+#id8{
+    font-size: 30px;
+}
+/* kingdom*/
+.class4{
+    margin-top: 100px;
+    
+}
+#kingdom{
+    margin-top: 61px;
+    margin-left: 100px;
+    padding-bottom: 30px;
+    width: 800px;
+    height: 500px;
+}
+.pr4{
+    padding-top: 20px;
+    padding-right: 114px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    float: right;
+    color: white;
+    line-height: 40px;
+}
+#id9{
+    font-size: 50px;
+}
+#id10{
+    font-size: 30px;
+}
+#id11{
+    font-size: 30px;
+}
+
+/* Sweet home */
+.class5{
+    margin-top: 100px;
+    
+}
+#sweethome{
+    margin-top: 61px;
+    margin-left: 100px;
+    padding-bottom: 30px;
+    width: 800px;
+    height: 500px;
+}
+.pr5{
+    padding-top: 20px;
+    padding-right: 100x;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    float: right;
+    color: white;
+    line-height: 40px;
+}
+#id12{
+    font-size: 50px;
+}
+#id13{
+    font-size: 30px;
+}
+#id14{
+    font-size: 30px;
+}
+/* Crash */
+.class6{
+    margin-top: 100px;
+    
+}
+#crash{
+    margin-top: 61px;
+    margin-left: 100px;
+    padding-bottom: 30px;
+    width: 800px;
+    height: 500px;
+}
+.pr6{
+    padding-top: 20px;
+    padding-right: 70px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    float: right;
+    color: white;
+    line-height: 40px;
+}
+#id15{
+    font-size: 50px;
+}
+#id16{
+    font-size: 30px;
+}
+#id17{
+    font-size: 30px;
+}
